@@ -1,0 +1,1 @@
+This folder contains the preliminary analyses of all columns. It aim to provides initial understanding of the data efficiently.
