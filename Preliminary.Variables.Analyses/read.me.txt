@@ -1,1 +1,3 @@
 This folder contains the preliminary analyses of all columns. It aim to provides initial understanding of the data efficiently.
+
+".md" documents are the reports. Inside the folders labeled with the variables names there are charts from the respective reports. 
